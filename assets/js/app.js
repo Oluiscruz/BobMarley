@@ -23,7 +23,7 @@ function Escopo() {
             {
                 title: "Turn Your Lights Down Low",
                 artist: "Bob Marley & The Wailers",
-                cover: "./assets/img/exodus.jpeg",
+                cover: "./assets/img/Exodus.jpeg",
                 file: "./assets/music/Turn-Your-Lights-Down-Low.mp3"
             },
 
@@ -37,7 +37,7 @@ function Escopo() {
             {
                 title: "Natural Mystic",
                 artist: "Bob Marley & The Wailers",
-                cover: "./assets/img/exodus.jpeg",
+                cover: "./assets/img/Exodus.jpeg",
                 file: "./assets/music/Natural-Mystic.mp3"
             }
         ];
